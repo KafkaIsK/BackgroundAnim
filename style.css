@@ -17,7 +17,7 @@ body {
     height: 100vh;
     z-index: 0;
     background: #171717;
-    background-image: url('header-bg-imagedarker.png');
+    background-image: url('header-bg-imagedarker-min.png');
     background-size: cover;
     background-position: center;
 }
